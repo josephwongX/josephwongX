@@ -5,7 +5,8 @@
     - via email:      wx.joseph@outlook.com
     - via linkedin:   https://www.linkedin.com/in/joseph-wong-xin-xiang-a079461b6/ 
 
-![Joseph's github stats](https://github-readme-stats.vercel.appz/api?username=josephwongX) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephwongX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Joseph's github stats](https://github-readme-stats.vercel.appz/api?username=josephwongX) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephwongX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 josephwongX/josephwongX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
