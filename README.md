@@ -5,7 +5,7 @@
     - via email:      wx.joseph@outlook.com
     - via linkedin:   https://www.linkedin.com/in/joseph-wong-xin-xiang-a079461b6/ 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=josephwongX)
 <!---
 josephwongX/josephwongX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
