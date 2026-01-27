@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josephwongX
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and IT support
 - 🌱 I’m currently studying diploma in IT <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: 
     - via email         : wx.joseph@outlook.com
