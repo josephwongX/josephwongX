@@ -7,7 +7,9 @@
     - via e-portfolio   : https://josephwongxinxiang.wixsite.com/portfolio
 - 💡 My motto is 
 
+<!---
 [![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=josephwongX&card_width=400px&line_height=20)](https://github.com/josephwongX)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephwongX&layout=compact)](https://github.com/josephwongX)
+--->
 <!---
 josephwongX/josephwongX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
