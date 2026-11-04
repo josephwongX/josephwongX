@@ -8,6 +8,7 @@
 - 💡 My motto is 
 
 <!---
+![https://github-readme-stats.vercel.app/api?username=kcpevey](https://github-readme-stats.vercel.app/api?username=kcpevey)
 [![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=josephwongX&card_width=400px&line_height=20)](https://github.com/josephwongX)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephwongX&layout=compact)](https://github.com/josephwongX)
 --->
 <!---
