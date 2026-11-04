@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josephwongX
 - 👀 I’m interested in web development and IT support
-- 🌱 I’m currently studying diploma in IT <!-- - 💞️ I’m looking to collaborate on ... -->
+- 🌱 I’m finished my diploma in IT. Currently pursuing my bachelor's in IT, majoring in computer and network security. <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: 
     - via email         : wx.joseph@outlook.com
     - via linkedin      : https://www.linkedin.com/in/joseph-wong-xin-xiang-a079461b6/
